@@ -1,2 +1,2 @@
 [lfs]
-url = ssh://admin@mill.jfrog.info:13614:1339/artifactory/ansys-gitlfs
+url = "http://admin:cmVmdGtuOjAxOjE3NTc3OTA0MjE6YmNuNEJiT3Ewb2RzWHZoVmd3cU5ZbmFLS1dM@mill.jfrog.info:13614/artifactory/api/lfs/ansys2-gitlfs-local"
